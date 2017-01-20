@@ -5,6 +5,7 @@
 3. 基础折线图 | Highcharts: https://www.hcharts.cn/demo/highcharts/line-basic/dark-unica
 4. 淘宝前端团队: http://taobaofed.org/
 5. javascript面向对象: http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html
+
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
 2. egghead:https://egghead.io/?utm_campaign=webpack&utm_medium=github&utm_source=opencollective
