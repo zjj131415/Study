@@ -5,6 +5,7 @@
 3. 基础折线图 | Highcharts: https://www.hcharts.cn/demo/highcharts/line-basic/dark-unica
 4. 淘宝前端团队: http://taobaofed.org/
 5. javascript面向对象: http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html
+6. es6 Pomise: http://mrdream.xyz/blog/2016/02/23/javascript-promise-api/
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
