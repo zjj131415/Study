@@ -5,12 +5,12 @@
 3. 基础折线图 | Highcharts: https://www.hcharts.cn/demo/highcharts/line-basic/dark-unica
 4. 淘宝前端团队: http://taobaofed.org/
 5. javascript面向对象: http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html
-6. es6 Pomise: http://mrdream.xyz/blog/2016/02/23/javascript-promise-api/
+6. es6 Promise: http://mrdream.xyz/blog/2016/02/23/javascript-promise-api/
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
 2. egghead:https://egghead.io/?utm_campaign=webpack&utm_medium=github&utm_source=opencollective
 
 ## atom
-gist: dfec6e7ba73c4bb298ba8d5de25b80b3
-token: a5651afd54dfca8fe5e55a2f9fac045938c79de9
+gist: b3347328e73d4c6538271016c960ca65
+token: e4b482531bb1af7dd9a89508f823775240a2e7b2
