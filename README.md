@@ -13,5 +13,5 @@
 2. egghead:https://egghead.io/?utm_campaign=webpack&utm_medium=github&utm_source=opencollective
 
 ## atom
-gist: b3347328e73d4c6538271016c960ca65
-token: e4b482531bb1af7dd9a89508f823775240a2e7b2
+gist: 2ff67202c1d101410c0fac64f6933774
+token: 9e33b4b473ebb16df57525646838efde8aea2f32
