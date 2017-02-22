@@ -12,6 +12,10 @@
 1. angularclass:http://courses.angularclass.com/
 2. egghead:https://egghead.io/?utm_campaign=webpack&utm_medium=github&utm_source=opencollective
 
+## webstorm
+1. Material Theme: https://plugins.jetbrains.com/idea/plugin/8006-material-theme-ui
+2. color-themes: http://color-themes.com/?view=index
+
 ## atom
 gist: 2ff67202c1d101410c0fac64f6933774
 token: 9e33b4b473ebb16df57525646838efde8aea2f32
