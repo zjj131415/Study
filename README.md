@@ -15,6 +15,7 @@
 ## webstorm
 1. Material Theme: https://plugins.jetbrains.com/idea/plugin/8006-material-theme-ui
 2. color-themes: http://color-themes.com/?view=index
+3. webstorm-book: https://github.com/iBlackIS/webstorm-book
 
 ## atom
 gist: 2ff67202c1d101410c0fac64f6933774
