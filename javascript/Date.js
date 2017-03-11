@@ -4,7 +4,7 @@
  */
 
 var date = new Date();//获取当前日期 时间
-date.getFullYear();//获取年份
+date.getFullYear();//获取年份;
 date.getMonth();//获取月份
 date.getDate();//获取天数
 date.getDay();//获取星期几， 0代表星期天
