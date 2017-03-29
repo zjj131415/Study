@@ -19,6 +19,5 @@
 2. color-themes: http://color-themes.com/?view=index
 3. webstorm-book: https://github.com/iBlackIS/webstorm-book
 
-## atom
-gist: 2ff67202c1d101410c0fac64f6933774
-token: 9e33b4b473ebb16df57525646838efde8aea2f32
+## Adobe
+1. ps: http://www.lookae.com/cc2017
