@@ -10,6 +10,7 @@
 8. react-router: https://reacttraining.com
 9. Material-UI: http://www.material-ui.com
 10. Learn X in Y minutes: https://learnxinyminutes.com/
+11. https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
