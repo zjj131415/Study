@@ -21,5 +21,8 @@
 2. color-themes: http://color-themes.com/?view=index
 3. webstorm-book: https://github.com/iBlackIS/webstorm-book
 
+## mac
+1.mac软件: https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md
+
 ## Adobe
 1. ps: http://www.lookae.com/cc2017
