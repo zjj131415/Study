@@ -11,6 +11,7 @@
 9. Material-UI: http://www.material-ui.com
 10. Learn X in Y minutes: https://learnxinyminutes.com/
 11. https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here
+12. 用友网络FED团队: https://github.com/iuap-design/blog
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
@@ -26,3 +27,7 @@
 
 ## Adobe
 1. ps: http://www.lookae.com/cc2017
+
+## react相关优秀插件
+1. https://github.com/reactjs/reselect
+2. 数据格式化插件：https://github.com/paularmstrong/normalizr
