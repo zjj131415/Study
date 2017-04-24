@@ -13,7 +13,7 @@
 11. https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here
 12. 用友网络FED团队: https://github.com/iuap-design/blog
 13. JavaScript 标准参考教程（alpha）: http://javascript.ruanyifeng.com/
-14. 前端攻城狮手册：https://leohxj.gitbooks.io；
+14. 前端攻城狮手册：https://leohxj.gitbooks.io
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
