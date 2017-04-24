@@ -12,6 +12,7 @@
 10. Learn X in Y minutes: https://learnxinyminutes.com/
 11. https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#start-here
 12. 用友网络FED团队: https://github.com/iuap-design/blog
+13. JavaScript 标准参考教程（alpha）: http://javascript.ruanyifeng.com/
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
@@ -31,9 +32,11 @@
 ## react相关优秀插件
 1. https://github.com/reactjs/reselect
 2. 数据格式化插件：https://github.com/paularmstrong/normalizr
+3. marked:https://github.com/chjj/marked
 
 ## nodejs
 1. fs模块:https://github.com/zjj131415/Study.git
 
 ## ui
 1. ui.cn:http://www.ui.cn/
+2. 设优：http://www.uisdc.com/
