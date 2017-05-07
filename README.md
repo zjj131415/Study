@@ -14,6 +14,7 @@
 12. 用友网络FED团队: https://github.com/iuap-design/blog
 13. JavaScript 标准参考教程（alpha）: http://javascript.ruanyifeng.com/
 14. 前端攻城狮手册：https://leohxj.gitbooks.io
+15. 白鹭开发者平台：http://developer.egret.com/cn/
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
