@@ -15,6 +15,7 @@
 13. JavaScript 标准参考教程（alpha）: http://javascript.ruanyifeng.com/
 14. 前端攻城狮手册：https://leohxj.gitbooks.io
 15. 白鹭开发者平台：http://developer.egret.com/cn/
+16. 优秀、实用、轻量级、无依赖的插件和库 : https://github.com/jawil/blog/issues/10
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
