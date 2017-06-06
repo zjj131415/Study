@@ -17,6 +17,7 @@
 15. 白鹭开发者平台：http://developer.egret.com/cn/
 16. 优秀、实用、轻量级、无依赖的插件和库 : https://github.com/jawil/blog/issues/10
 17. AlloyTeam: http://www.alloyteam.com/
+18. three动画库: https://threejs.org/
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
