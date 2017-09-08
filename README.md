@@ -20,7 +20,7 @@
 18. three动画库: https://threejs.org/
 19. https://github.com/jondot/awesome-react-native
 20. tutorialzine: https://tutorialzine.com/
-21. 67 个拯救前端开发者的工具、库和资源: https://github.com/zjj131415/Study.git
+21. 67 个拯救前端开发者的工具、库和资源: http://www.zcfy.cc/article/67-useful-tools-libraries-and-resources-for-saving-your-time-as-a-web-developer-4174.html?t=new
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
