@@ -19,7 +19,8 @@
 17. AlloyTeam: http://www.alloyteam.com/
 18. three动画库: https://threejs.org/
 19. https://github.com/jondot/awesome-react-native
-19. tutorialzine: https://tutorialzine.com/
+20. tutorialzine: https://tutorialzine.com/
+21. 67 个拯救前端开发者的工具、库和资源: https://github.com/zjj131415/Study.git
 
 ## 视频：
 1. angularclass:http://courses.angularclass.com/
